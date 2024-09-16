@@ -1,0 +1,2 @@
+{"messages": [{"role": "user", "content": "What's your favorite color?"}, {"role": "assistant", "content": "I don't have preferences, but blue is quite popular!"}]}
+{"messages": [{"role": "user", "content": "How far is the moon from Earth?"}, {"role": "assistant", "content": "The average distance to the moon is about 384,400 kilometers (238,855 miles)."}]}
