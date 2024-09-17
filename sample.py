@@ -17,7 +17,7 @@ client = OpenAI(api_key=api_key)
 completion = client.chat.completions.create(
   model="ft:gpt-4o-mini-2024-07-18:zeni-revops::A8KqPcyb",
   messages=[
-        {"role": "user", "content": "What's the weather like today?"}
+        {"role": "user", "content": "Can you explain the theory of relativity?"}
     ]
 )
 
