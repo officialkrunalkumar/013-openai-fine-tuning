@@ -15,7 +15,7 @@ client = OpenAI(api_key=api_key)
 completion = client.chat.completions.create(
   model="ft:gpt-4o-mini-2024-07-18:zeni-revops:churngpt:A8UdFXbe",
   messages=[
-        {"role": "user", "content": "Customer has indicated that they are moving to a competitor due to better service offerings."}
+        {"role": "user", "content": "Customer is angry as the customer success manager was not able to provide a good service."}
     ]
 )
 
